@@ -1,2 +1,0 @@
-# IniciandoReact
-Created with CodeSandbox
